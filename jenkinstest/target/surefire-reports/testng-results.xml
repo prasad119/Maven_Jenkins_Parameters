@@ -2,19 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="15" started-at="2016-06-22T08:26:58Z" finished-at="2016-06-22T08:26:58Z">
+  <suite name="Suite" duration-ms="12162" started-at="2016-07-01T05:35:49Z" finished-at="2016-07-01T05:36:01Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="15" started-at="2016-06-22T08:26:58Z" finished-at="2016-06-22T08:26:58Z">
+    <test name="Test" duration-ms="12162" started-at="2016-07-01T05:35:49Z" finished-at="2016-07-01T05:36:01Z">
       <class name="com.sample.jenkinstest.Sample">
-        <test-method status="PASS" signature="f(java.lang.String)[pri:0, instance:com.sample.jenkinstest.Sample@1251891]" name="f" duration-ms="7" started-at="2016-06-22T13:56:58Z" finished-at="2016-06-22T13:56:58Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[firefox]]>
-              </value>
-            </param>
-          </params>
+        <test-method status="PASS" signature="f()[pri:0, instance:com.sample.jenkinstest.Sample@2133c8f8]" name="f" duration-ms="12145" started-at="2016-07-01T11:05:49Z" finished-at="2016-07-01T11:06:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
