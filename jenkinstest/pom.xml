@@ -45,8 +45,8 @@
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<configuration>
-					<source>1.6</source>
-					<target>1.6</target>
+					<source>1.8</source>
+					<target>1.8</target>
 					<verbose>true</verbose>
 					<fork>true</fork>
 					<executable>C:\Program Files (x86)\Java\jdk1.8.0_40\bin</executable>
