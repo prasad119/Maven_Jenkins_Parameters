@@ -2,7 +2,7 @@
 <suite name="Suite" parallel="false">
   <test name="Test">
     <classes>
-      <class name="com.sample.jenkinstest.Sample"/>
+      <class name="com.naukri.testcases.TC1"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
